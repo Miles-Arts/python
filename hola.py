@@ -17,4 +17,15 @@ def cantar(nombre):
     print("Estoy cantando lalillai " + nombre + " y te saludo ")
     
 
-cantar("Hola")
+"""cantar("Hola")"""
+
+casa = 2
+boda = 5
+int mayor  = ""
+
+if mayor( casa > boda ): {
+    print("Esto está muy bien")
+}
+    
+
+print(mayor)
