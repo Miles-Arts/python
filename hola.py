@@ -21,7 +21,7 @@ def cantar(nombre):
 
 casa = 2
 boda = 5
-int mayor  = ""
+"""nt mayor  = """
 
 if mayor( casa > boda ): {
     print("Esto está muy bien")
